@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,YADQ,CACR,EAAE,AAAA,CACE,SAAS,CAAE,IAAI,CAClB",
+    "sources": [
+        "../style/how-we-work.scss"
+    ],
+    "names": [],
+    "file": "how-we-work.min.css"
+}
